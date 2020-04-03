@@ -1,0 +1,6 @@
+comando..
+create-react-app nombredeapp
+
+ejecutar.
+
+npm start.
